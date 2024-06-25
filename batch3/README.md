@@ -52,4 +52,17 @@ He's been working as a software consultant for multiple startups & government ag
 
 To be confirmed.
 
+#### Tee Wenjie
+
+![Tee Wenjie](./images/mentee_tee_wenjie.jpg)
+
+**Software Applications Developer, [NTT Data, Inc](https://services.global.ntt/en-us/)**
+
+**GitHub <https://github.com/wenjietee>**
+
+**LinkedIn <https://www.linkedin.com/in/teewenjie>**
+
+Hello there! 👋 Wenjie here, I career switched to software from a 3D artist role with games and film and currently I'm working as a full-stack web developer for NTT Data. My go-to tools are NodeJS, React, Express but I'm always looking to expand and explore more technologies to further bridge the worlds of art and code.
+
+
 Sign-up here: <https://bit.ly/jdsg-mentee-signup-batch3>
