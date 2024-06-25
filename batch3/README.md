@@ -54,7 +54,7 @@ To be confirmed.
 
 #### Tee Wenjie
 
-![Tee Wenjie](./images/mentee_tee_wenjie.jpg)
+![Tee Wenjie](./images/mentee_tee_wenjie_1.jpg)
 
 **Software Applications Developer, [NTT Data, Inc](https://services.global.ntt/en-us/)**
 
